@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.nav-bar1{
+    background-color: rgb(1, 1, 22);
+    color: white;
+    margin: 5px;
+    padding: 5px;
+    height: 70px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
+.item1{
+    margin: 5px;
+    padding: 5px;
+    font-size: larger;
+   
+}
